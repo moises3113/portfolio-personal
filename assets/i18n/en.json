@@ -14,9 +14,9 @@
   },
   "about": {
     "title": "About me",
-    "desc1": "I am a full-stack developer with over 10 years of experience in web analysis, design, and development. I have extensive experience in technologies such as C#, .Net, NextJs, JavaScript, React, Node.js, Etc, SQL databases, NoSQL databases, and many others. I am passionate about creating efficient and scalable web applications, and I am always looking to learn new technologies to improve my skills.",
-    "desc2": "In my free time, I enjoy contributing to open source projects and writing technical articles about web development.",
-    "desc3": "I look for projects where code quality, clear communication, and technical judgment are priorities."
+    "desc1": "I am a full-stack developer with over 10 years of experience in web application design and development, working with technologies such as C#, .NET, NextJs, JavaScript, React, Node.js, etc., as well as SQL and NoSQL databases, among others.",
+    "desc2": "I also have a diploma in cybersecurity, which allows me to focus on software development under the highest security standards, applying best practices from architecture to implementation, with special attention to information protection, vulnerability prevention, and compliance with secure development principles. I am passionate about creating efficient, scalable, and secure applications, and I am constantly learning to stay up to date on both new technologies and IT security trends.",
+    "desc3": "In my spare time, I enjoy contributing to open source projects and writing technical articles related to web development and best practices. I seek to participate in projects where code quality, clear communication, and technical judgment are fundamental priorities."
   },
     "contact": {
     "title": "Contact",

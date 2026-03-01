@@ -14,9 +14,9 @@
   },
   "about": {
     "title": "Über mich",
-    "desc1": "Ich bin ein Full-Stack-Entwickler mit mehr als 10 Jahren Erfahrung in der Analyse, dem Design und der Entwicklung von Websites. Ich verfüge über umfassende Erfahrung mit Technologien wie C#, NextJs, .Net, JavaScript, React, Node.js, etc, SQL-Datenbanken, NoSQL-Datenbanken und vielen anderen. Ich entwickle leidenschaftlich gerne effiziente und skalierbare Webanwendungen und bin stets daran interessiert, neue Technologien zu erlernen, um meine Fähigkeiten zu verbessern.",
-    "desc2": "In meiner Freizeit arbeite ich gerne an Open-Source-Projekten mit und schreibe technische Artikel über Webentwicklung.",
-    "desc3": "Ich suche nach Projekten, bei denen die Qualität des Codes, klare Kommunikation und technisches Urteilsvermögen im Vordergrund stehen."
+    "desc1": "Ich bin Full-Stack-Entwickler mit mehr als 10 Jahren Erfahrung in der Konzeption und Entwicklung von Webanwendungen und arbeite mit Technologien wie C#, .NET, NextJs, JavaScript, React, Node.js usw. sowie SQL- und NoSQL-Datenbanken und anderen.",
+    "desc2": "Darüber hinaus habe ich einen Abschluss in Cybersicherheit, der es mir ermöglicht, die Softwareentwicklung nach den höchsten Sicherheitsstandards auszurichten und bewährte Verfahren von der Architektur bis zur Implementierung anzuwenden, wobei ich besonderes Augenmerk auf den Schutz von Informationen, die Vermeidung von Schwachstellen und die Einhaltung der Grundsätze einer sicheren Entwicklung lege. Ich entwickle leidenschaftlich gerne effiziente, skalierbare und sichere Anwendungen und bilde mich kontinuierlich weiter, um sowohl in Bezug auf neue Technologien als auch auf Trends in der IT-Sicherheit auf dem neuesten Stand zu bleiben.",
+    "desc3": "In meiner Freizeit engagiere ich mich gerne für Open-Source-Projekte und schreibe Fachartikel über Webentwicklung und Best Practices. Ich suche nach Projekten, bei denen die Qualität des Codes, klare Kommunikation und technische Kompetenz im Vordergrund stehen."
   },
   "contact": {
     "title": "Kontakt",
