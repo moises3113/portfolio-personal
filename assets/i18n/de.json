@@ -1,0 +1,70 @@
+{
+  "home": {
+    "li1": "Startseite",
+    "li2": "Über mich",
+    "li3": "Projekte/Erlebnis",
+    "li4": "Kontakt",
+
+    "title": "Full-Stack-Softwareentwickler | Sichere Entwicklung und bewährte Verfahren für Cybersicherheit",
+    "subtitle": "Willkommen in meinem Portfolio",
+    "description": "Ich entwerfe und entwickle Weblösungen mit Fokus auf Klarheit, Wartbarkeit und echtem Mehrwert für das Unternehmen.",
+    "languages": "Sprachen: Spanisch als Muttersprache, Englisch, Deutsch",
+
+    "fooDesc": "© 2026 Moises Garcia. Alle Rechte vorbehalten."
+  },
+  "about": {
+    "title": "Über mich",
+    "desc1": "Ich bin ein Full-Stack-Entwickler mit mehr als 10 Jahren Erfahrung in der Analyse, dem Design und der Entwicklung von Websites. Ich verfüge über umfassende Erfahrung mit Technologien wie C#, NextJs, .Net, JavaScript, React, Node.js, etc, SQL-Datenbanken, NoSQL-Datenbanken und vielen anderen. Ich entwickle leidenschaftlich gerne effiziente und skalierbare Webanwendungen und bin stets daran interessiert, neue Technologien zu erlernen, um meine Fähigkeiten zu verbessern.",
+    "desc2": "In meiner Freizeit arbeite ich gerne an Open-Source-Projekten mit und schreibe technische Artikel über Webentwicklung.",
+    "desc3": "Ich suche nach Projekten, bei denen die Qualität des Codes, klare Kommunikation und technisches Urteilsvermögen im Vordergrund stehen."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "desc": "Wenn Sie mich kontaktieren möchten, können Sie dies über die folgenden Mittel tun:",
+    "note": "Ich antworte normalerweise innerhalb von 24-36 Stunden."
+  },
+  "projects": {
+    "title": "Projekte/Erlebnis",
+    "desc": "Im Folgenden sind einige der Projekte und Berufserfahrungen aufgeführt, an denen ich gearbeitet habe:",
+    "detail": "Jedes Projekt legt Wert auf Einfachheit, Leistung und bewusste technische Entscheidungen.",
+    
+    "pro1Tit": "DIGER (Nationale Direktion für ergebnisorientiertes Management) 2016–2026",
+    "pro1Pos": "Full-Stack-Entwickler",
+    "pro1": "Haupttätigkeit der letzten Jahre für den öffentlichen Sektor in Honduras. Als Full-Stack-Entwickler für die Erstellung, Wartung, Aktualisierung und Verbesserung verschiedener Plattformen, die auf nationaler Ebene von Regierungsinstitutionen genutzt werden. Darunter SIGPRET, das ergebnisorientierte und auf Transparenz ausgerichtete öffentliche Verwaltungssystem von Honduras. Wichtigste Plattform in Honduras für die Kontrolle, Verwaltung und Rechenschaftspflicht öffentlicher Mittel. Entwicklung von ChatBots innerhalb der Plattform für die Abfrage von Informationen, die die OpenAI-Engine für die Verarbeitung und Beantwortung von Anfragen verwenden (.NET Core 9, Razor, Blazor, Entity Framework, Web-API, MVC, Rest-API, SQL Server, PostgreSQL, React, JQuery, Javascript, HTML5, CSS3, ArcGIS, amCharts5, Power Bi, Docker, BitBucket, Agile).",
+    "pro1Enl1": "(Private Plattform zur Nutzung durch honduranische Beamte)",
+    "pro1Enl2": "(Offizielle Website von DIGER)",
+    "pro1Enl3": "(Portal für Verfahren für honduranische Staatsbürger)",
+    
+    "pro2Tit": "OINAHON (Organización Internacional Nueva Acropolis Honduras) 2024",
+    "pro2Pos": "Full-Stack-Entwickler und Berater",
+    "pro2": "Entwicklung eines Systems zur Rechnungsstellung und Erfassung von Zahlungseingängen und -ausgängen sowie zur Verwaltung von Kunden, Statistiken und Haupteinnahmequellen für eine internationale Nichtregierungsorganisation, die in mehr als 60 Ländern vertreten ist. Entwicklung einer Plattform für die Anmeldung von Kunden zu den Kulturkursen, die die Organisation auf nationaler Ebene anbietet, sowie Entwicklung der offiziellen Website der Organisation (Node.js, API REST, NextJs, React, MySQL, WebSocket, ExpressJS, JavaScript/TypeScript, Git).",
+    "pro2Enl1": "(Private Plattform zur Nutzung durch Behörden und Mitglieder der Organisation)",
+    "pro2Enl2": "(Online-Plattform für Kulturkurse der Organisation)",
+    "pro2Enl3": "(Offizielle Website der OINAHON)",
+    
+    "pro3Tit": "MAARSA-Gruppe (2023)",
+    "pro3Pos": "Full-Stack-Entwickler und Berater",
+    "pro3": "Entwicklung eines Systems zur Erfassung von Mieteinnahmen für Immobilienunternehmen. Verwaltung monatlicher Mietzahlungen, täglicher, monatlicher und jährlicher Buchhaltungsunterlagen zur Nachverfolgung von Ressourcen und Vorabbenachrichtigungen über geplante Zahlungen (Node.js, React, MongoDB, CRON, Flutter, Firebase, Konsolenanwendungen).",
+    "pro3Enl1": "(Private Plattform zur Nutzung durch das Buchhaltungspersonal des Unternehmens MAARSA)",
+    
+    "pro4Tit": "MINHN (Nationalmuseum für Identität von Honduras) 2018-2019",
+    "pro4Pos": "Full-Stack-Entwickler und Berater",
+    "pro4": "Analyse, Entwicklung und Programmierung interaktiver Augmented-Reality- (AR) und Virtual-Reality-Anwendungen (VR) mit Electron und WPF (Windows Presentation Foundation). Entwicklung verschiedener Desktop-Anwendungen für den permanenten digitalen Ausstellungsraum des Museums. Das Projekt wurde mit finanzieller Unterstützung der japanischen Botschaft in Honduras durchgeführt. (ReactJs, MySql, Workbench, Python, Unity, C#, C++).",
+    "pro4Enl1": "(Bericht über die Einweihung des digitalen Ausstellungsraums des Museums mit den entwickelten Anwendungen)",
+    "pro4Enl2": "(Mitteilung der japanischen Botschaft in Honduras zur Eröffnung des digitalen Ausstellungsraums des Museums)",
+    
+    "pro5Tit": "HEIFER International (2016–2017)",
+    "pro5Pos": "Full-Stack-Entwickler und Berater",
+    "pro5": "Entwicklung einer Webplattform zur Überwachung von Projekten auf regionaler Ebene, Ressourcenverbrauch, Zeitplänen von Kunden und Mitarbeitern, finanziellen Ausgaben und jährlichen Betriebsplänen (POA). Die Plattform wird vom Unternehmen in ganz Lateinamerika genutzt. (PHP, Laravel, Drupal, PhpMyAdmin, JasperReport, Reporting Services).",
+    "pro5Enl1": "(Private Plattform für Mitarbeiter von HEIFER International in Lateinamerika)",
+    
+    "pro6Tit": "VENCO SA Honduras (2015)",
+    "pro6Pos": "Grafik- und Webentwickler",
+    "pro6": "Entwurf und Entwicklung statischer und dynamischer Informationswebsites für verschiedene Kunden in Amerika. Verwendung von Content-Management-Systemen für die schnelle Entwicklung von Websites sowie von Seiten, die von Grund auf mit nativen und reinen Sprachen entworfen und erstellt wurden (Illustrator, Photoshop, CorelDraw, WordPress, Wix, HTML5, CSS, jQuery, JavaScript).",
+    "pro6Enl1": "(Offizielle Website der ANED Consultores)",
+    "pro6Enl2": "(Offizielle Website der Little Free Library)",
+    "pro6Enl3": "(Offizielle Website der IAAPA)",
+    "pro6Enl4": "(Offizielle Website der Universidad Católica de Honduras)",
+    "pro6Enl5": "(Offizielle Website des MINHN - Museo Nacional de Identidad de Honduras)"
+  }
+}

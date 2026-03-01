@@ -1,0 +1,70 @@
+{
+  "home": {
+    "li1": "Home",
+    "li2": "About me",
+    "li3": "Projects/Experience",
+    "li4": "Contact",
+
+    "title": "Full-Stack Software Developer | Secure Development and Cybersecurity Best Practices",
+    "subtitle": "Welcome to my portfolio",
+    "description": "I design and develop web solutions with a focus on clarity, maintainability, and real value for the business.",
+    "languages": "Languages: Native Spanish, English, German",
+
+    "fooDesc": "© 2026 Moises Garcia. All rights reserved."
+  },
+  "about": {
+    "title": "About me",
+    "desc1": "I am a full-stack developer with over 10 years of experience in web analysis, design, and development. I have extensive experience in technologies such as C#, .Net, NextJs, JavaScript, React, Node.js, Etc, SQL databases, NoSQL databases, and many others. I am passionate about creating efficient and scalable web applications, and I am always looking to learn new technologies to improve my skills.",
+    "desc2": "In my free time, I enjoy contributing to open source projects and writing technical articles about web development.",
+    "desc3": "I look for projects where code quality, clear communication, and technical judgment are priorities."
+  },
+    "contact": {
+    "title": "Contact",
+    "desc": "If you want to contact me, you can do so through the following means:",
+    "note": "I normally respond within 24-36 hours."
+  },
+  "projects": {
+    "title": "Projects/Experience",
+    "desc": "Below are some of the projects and work experiences I have been involved in:",
+    "detail": "Each project prioritizes simplicity, performance, and conscious technical decisions.",
+    
+    "pro1Tit": "DIGER (National Directorate for Results-Based Management) 2016-2026",
+    "pro1Pos": "Full Stack Developer",
+    "pro1": "Main ongoing work in recent years for the public sector in Honduras. Performing full stack developer functions for the creation, maintenance, updating, and improvement of various platforms used nationally by government institutions. These include SIGPRET, Honduras' results-based public management system focused on transparency. Honduras' main platform for the control, management, and accountability of public resources. Also developed ChatBots within the platform for information queries using the OpenAI engine for processing and responses (.NET Core 9, Razor, Blazor, Entity Framework, web API, MVC, Rest API, SQL Server, PostgreSQL, React, JQuery, Javascript, HTML5, CSS3, ArcGIS, amCharts5, Power Bi, Docker, BitBucket, Agile).",
+    "pro1Enl1": "(Private platform for use by Honduran public officials)",
+    "pro1Enl2": "(Official website of DIGER)",
+    "pro1Enl3": "(Portal of procedures for Honduran citizens)",
+    
+    "pro2Tit": "OINAHON (New Acropolis International Organization Honduras) 2024",
+    "pro2Pos": "Full Stack Developer Consultant",
+    "pro2": "Development of an accounting billing system and monetary information inputs/outputs, as well as customer management, statistics, and main areas of revenue for an international NGO with a presence in more than 60 countries. Development also of a platform for customer enrollment in the cultural courses that the organization offers at the national level, as well as the development of the organization's official website (Node.js, API REST, NextJs, React, MySQL, WebSocket, ExpressJS, JavaScript/TypeScript, Git).",
+    "pro2Enl1": "(Private platform for use by authorities and members of the organization)",
+    "pro2Enl2": "(Online cultural courses platform of the organization)",
+    "pro2Enl3": "(Official website of OINAHON)",
+
+    "pro3Tit": "MAARSA Group (2023)",
+    "pro3Pos": "Full Stack Developer Consultant",
+    "pro3": "Development of a rental income system for real estate companies. Management of monthly rent payments, daily, monthly, and annual accounting books for resource tracking, and advance notifications of scheduled payments (Node.js, React, MongoDB, CRON, Flutter, Firebase, console applications).",
+    "pro3Enl1": "(Private platform for use by MAARSA's accounting staff)",
+    
+    "pro4Tit": "MINHN (National Museum of Honduran Identity) 2018-2019",
+    "pro4Pos": "Full Stack Developer Consultant",
+    "pro4": "Analysis, development, and programming of interactive augmented reality (AR) and virtual reality (VR) applications with Electron and WPF (Windows Presentation Foundation). Development of several desktop applications for the museum's permanent digital exhibition hall. Project carried out with funding from the Japanese Embassy in Honduras. (ReactJs, MySql, Workbench, Python, Unity, C#, C++).",
+    "pro4Enl1": "(Official video of the inauguration of the museum's digital exhibition hall with the developed applications)",
+    "pro4Enl2": "(News from the Japanese Embassy in Honduras regarding the opening of the museum's digital exhibition hall)",
+    
+    "pro5Tit": "HEIFER International (2016-2017)",
+    "pro5Pos": "Full Stack Developer Consultant",
+    "pro5": "Development of a web platform to monitor projects at the regional level, resource consumption, customer and employee schedules, financial disbursements, and annual operating plans (AOP). Platform used by the company throughout Latin America. (PHP, Laravel, Drupal, PhpMyAdmin, JasperReport, Reporting Services).",
+    "pro5Enl1": "(Private platform for use by HEIFER International's staff in Latin America)",
+    
+    "pro6Tit": "VENCO SA Honduras (2015)",
+    "pro6Pos": "Graphic and Web Developer",
+    "pro6": "Design and development of static and dynamic informational websites for various clients in the Americas. Use of content management systems for rapid website development, as well as pages designed and built from scratch using native and pure languages (Illustrator, Photoshop, CorelDraw, WordPress, Wix, HTML5, CSS, jQuery, JavaScript).",
+    "pro6Enl1": "(Official website of ANED Consultores)",
+    "pro6Enl2": "(Official website of Little Free Library)",
+    "pro6Enl3": "(Official website of IAAPA)",
+    "pro6Enl4": "(Official website of Universidad Católica de Honduras)",
+    "pro6Enl5": "(Official website of MINHN - Museo Nacional de Identidad de Honduras)"
+  }
+}

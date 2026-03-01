@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Moises Garcia · Full-Stack Software Developer</title>
+    <meta name="description" content="Professional portfolio of a full-stack developer with over 10 years of experience in web applications.">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/variables.css">
+    <link rel="stylesheet" href="assets/css/base.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">Moises Garcia</a>
+
+      <div class="lang-switch">
+          <button data-lang="en">EN</button>
+          <button data-lang="es">ES</button>
+          <button data-lang="de">DE</button>
+      </div>
+
+      <nav class="main-nav">
+        <a href="index.html" data-i18n="home.li1"></a>
+        <a href="about.html" data-i18n="home.li2" class="active" ></a>
+        <a href="projects.html" data-i18n="home.li3"></a>
+        <a href="contact.html" data-i18n="home.li4"></a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="site-main">
+    <div class="container">
+      <!-- CONTENIDO ESPECÍFICO DE CADA PÁGINA -->
+        <section class="home-hero fade-in">
+          <h1 data-i18n="about.title"></h1>
+          <hr>
+
+          <div class="aboutDiv">
+            <p data-i18n="about.desc1"></p>
+            <p data-i18n="about.desc2"></p>
+            <p data-i18n="about.desc3"></p>
+          </div>
+
+          <div class="aboutDiv aboutDivImage">
+            <img src="assets/img/aboutPhoto.jpg" class="profile-image"><br><br>
+            <img src="assets/img/aboutPhoto2.jpg" class="profile-image">
+          </div>
+            
+        </section>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <p data-i18n="home.fooDesc"></p>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/animations.js"></script>
+
+</body>
+</html>

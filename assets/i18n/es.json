@@ -1,0 +1,70 @@
+{
+  "home": {
+    "li1": "Inicio",
+    "li2": "Sobre mí",
+    "li3": "Proyectos/Experiencia",
+    "li4": "Contacto",
+
+    "title": "Desarrollador de Software Full-Stack | Desarrollo Seguro y Buenas Prácticas de Ciberseguridad",
+    "subtitle": "Bienvenido a mi portafolio",
+    "description": "Diseño y desarrollo soluciones web con enfoque en claridad, mantenibilidad y valor real para el negocio.",
+    "languages": "Idiomas: Español nativo, Inglés, Alemán",
+
+    "fooDesc": "© 2026 Moises Garcia. Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Sobre mí",
+    "desc1": "Soy desarrollador full-stack con más de 10 años de experiencia en el diseño y desarrollo de aplicaciones web, trabajando con tecnologías como C#, .NET, NextJs, JavaScript, React, Node.js, etc, así como bases de datos SQL y NoSQL, entre otras.",
+    "desc2": "Cuento además con un diplomado en ciberseguridad, lo que me permite enfocar el desarrollo de software bajo los mejores estándares de seguridad, aplicando buenas prácticas desde la arquitectura hasta la implementación, con especial atención en la protección de la información, la prevención de vulnerabilidades y el cumplimiento de principios de desarrollo seguro. Me apasiona crear aplicaciones eficientes, escalables y seguras, y mantengo un aprendizaje continuo para mantenerme actualizado tanto en nuevas tecnologías como en tendencias de seguridad informática.",
+    "desc3": "En mi tiempo libre disfruto contribuir a proyectos de código abierto y escribir artículos técnicos relacionados con desarrollo web y buenas prácticas. Busco participar en proyectos donde la calidad del código, la comunicación clara y el criterio técnico sean prioridades fundamentales."
+  },
+    "contact": {
+    "title": "Contacto",
+    "desc": "Si deseas contactarme, puedes hacerlo a través de los siguientes medios:",
+    "note": "Respondo normalmente en 24-36 horas."
+  },
+  "projects": {
+    "title": "Proyectos/Experiencia",
+    "desc": "A continuación se muestran algunos de los proyectos y experiencias laborales en los que he trabajado:",
+    "detail": "Cada proyecto prioriza simplicidad, rendimiento y decisiones técnicas conscientes.",
+    
+    "pro1Tit": "DIGER (Dirección Nacional de Gestión por Resultados) 2016-2026",
+    "pro1Pos": "Desarrollador Full Stack",
+    "pro1": "Principal trabajo permanente de los últimos años para el sector público de Honduras. Desempeñando funciones de full stack developer para la creación, mantenimiento, actualización y mejoras de diversas plataformas utilizadas a nivel nacional por instituciones gubernamentales. Entre ellas el SIGPRET, el sistema de gestión pública de Honduras basado en resultados y centrado en la transparencia. Principal plataforma de Honduras para el control, gestión y rendición de cuentas de los recursos públicos. Desarrollo también de ChatBots dentro de la plataforma para la consulta de información que utilizan motor de OpenAI para el procesamiento de la misma y respuestas (.NET Core 9, Razor, Blazor, Entity Framework, API web, MVC, API Rest, SQL Server, PostgreSQL, React, JQuery, Javascript, HTML5, CSS3, ArcGIS, amCharts5, Power Bi, Docker, BitBucket, Agile).",
+    "pro1Enl1": "(Plataforma privada para uso de funcionarios públicos de Honduras)",
+    "pro1Enl2": "(Sitio web oficial de la DIGER)",
+    "pro1Enl3": "(Portal de trámites para ciudadanos hondureños)",
+
+    "pro2Tit": "OINAHON (Organización Internacional Nueva Acropolis Honduras) 2024",
+    "pro2Pos": "Consultor Desarrollador Full Stack",
+    "pro2": "Desarrollo de un sistema de facturación contable y entradas/salidas de información monetaria, así como gestión de clientes, estadísticas y principales áreas de ingresos para una ONG internacional con presencia en más de 60 países. Desarrollo también de plataforma para la matrícula de los clientes en los cursos culturales que la organización imparte a nivel nacional, así como también el desarrollo de la página web oficial de la organización (Node.js, API REST, NextJs, React, MySQL, WebSocket, ExpressJS, JavaScript/TypeScript, Git).",
+    "pro2Enl1": "(Plataforma privada para uso de autoridades y miembros de la organización)",
+    "pro2Enl2": "(Plataforma de cursos culturales en línea de la organización)",
+    "pro2Enl3": "(Sitio web oficial de la OINAHON)",
+    
+    "pro3Tit": "Grupo MAARSA (2023)",
+    "pro3Pos": "Consultor Desarrollador Full Stack",
+    "pro3": "Desarrollo de un sistema de ingresos por alquileres para empresas inmobiliarias. Gestión de pagos mensuales de alquileres, libros contables diarios, mensuales y anuales para seguimiento de recursos y notificaciones anticipadas de cobros programados (Node.js, React, MongoDB, CRON, Flutter, Firebase, aplicaciones de consola).",
+    "pro3Enl1": "(Plataforma privada para uso de personal contable de la empresa MAARSA)",
+    
+    "pro4Tit": "MINHN (Museo Nacional de Identidad de Honduras) 2018-2019",
+    "pro4Pos": "Consultor Desarrollador Full Stack",
+    "pro4": "Análisis, desarrollo y programación de aplicaciones interactivas de realidad aumentada (RA) y realidad virtual (RV) con Electron y WPF (Windows Presentation Foundation). Desarrollo de varias aplicaciones de escritorio para la sala de exposiciones digitales permanentes del museo. Proyecto llevado a cabo con financiacion de la embajada Japonesa en Honduras. (ReactJs, MySql, Workbench, Python, Unity, C#, C++).",
+    "pro4Enl1": "(Reportaje de la inauguración de la sala de exposiciones digitales del museo con las aplicaciones desarrolladas)",
+    "pro4Enl2": "(Noticia de la embajada de Japón en Honduras sobre la inauguración de la sala de exposiciones digitales del museo)",
+
+    "pro5Tit": "HEIFER Internacional (2016-2017)",
+    "pro5Pos": "Consultor Desarrollador Full Stack",
+    "pro5": "Desarrollo de una plataforma web para supervisar proyectos a nivel regional, consumo de recursos, horarios de clientes y empleados, desembolsos financieros y planes operativos anuales POA. Plataforma utilizada por la compañia en todo el sector de latinoamerica. (PHP, Laravel, Drupal, PhpMyAdmin, JasperReport, Reporting Services).",
+    "pro5Enl1": "(Plataforma privada para uso de personal de la empresa HEIFER Internacional en Latinoamérica)",
+    
+    "pro6Tit": "VENCO SA Honduras (2015)",
+    "pro6Pos": "Diseñador Gráfico y Desarrollador Web",
+    "pro6": "Diseño y desarrollo de sitios web informativos estáticos y dinámicos para diversos clientes en América. Uso de gestores de contenido para rápido desarrollo de sitios web asi como páginas diseñadas y hechas desde cero con lenguajes nativos y puros.(Illustrator, Photoshop, CorelDraw، WordPress، Wix، HTML5، CSS، jQuery، JavaScript).",
+    "pro6Enl1": "(Sitio web de ANED Consultores)",
+    "pro6Enl2": "(Sitio web de Little Free Library)",
+    "pro6Enl3": "(Sitio web de IAAPA)",
+    "pro6Enl4": "(Sitio web de Universidad Católica de Honduras)",
+    "pro6Enl5": "(Sitio web de MINHN - Museo Nacional de Identidad de Honduras)"
+  }
+}

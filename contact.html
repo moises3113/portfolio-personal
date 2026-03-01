@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Moises Garcia · Full-Stack Software Developer</title>
+    <meta name="description" content="Professional portfolio of a full-stack developer with over 10 years of experience in web applications.">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/variables.css">
+    <link rel="stylesheet" href="assets/css/base.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">Moises Garcia</a>
+
+      <div class="lang-switch">
+        <button data-lang="en">EN</button>
+        <button data-lang="es">ES</button>
+        <button data-lang="de">DE</button>
+      </div>
+
+      <nav class="main-nav">
+        <a href="index.html" data-i18n="home.li1"></a>
+        <a href="about.html" data-i18n="home.li2"></a>
+        <a href="projects.html" data-i18n="home.li3"></a>
+        <a href="contact.html" data-i18n="home.li4" class="active"></a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="site-main">
+    <div class="container">
+      <!-- CONTENIDO ESPECÍFICO DE CADA PÁGINA -->
+        <section class="home-hero fade-in">
+            <h1 data-i18n="contact.title"></h1>
+            <hr>
+            <p data-i18n="contact.desc"></p>
+            <ul>
+                <li><span class="muted">Tel:</span> +49 176 79938070</li>
+                <li><span class="muted">Email:</span> moises.garcia3113@gmail.com</li>
+                <li><span class="muted">LinkedIn:</span> <a href="https://www.linkedin.com/in/moises-antonio-garcia-869b47108/" target="_blank">www.linkedin.com/in/moises-antonio-garcia-869b47108/</a> </li>
+                <li><span class="muted">GitHub:</span> <a href="https://github.com/moises3113" target="_blank">github.com/moises3113</a></li>
+            </ul>
+
+            <p data-i18n="contact.note" class="muted"></p>
+
+        </section>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <p data-i18n="home.fooDesc"></p>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/animations.js"></script>
+
+</body>
+</html>
